@@ -1,0 +1,14 @@
+.table-striped{
+	
+}
+.table_head{
+	
+	color:#6f5499;
+}
+.table_body{
+	text-align:left;
+}
+.table_link a:hover{
+	text-decoration:none;
+	color:red;
+}

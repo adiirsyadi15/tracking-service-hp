@@ -1,0 +1,196 @@
+
+/*************************
+*******Typography******
+**************************/
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700);
+@import url(http://fonts.googleapis.com/css?family=Abel);
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color:;
+  position: relative;
+  font-weight:400px;
+}
+/*Header*/
+
+.header-atas {
+  background: none repeat scroll 0 0 #f7f5f2;
+  font-size: 12px;
+  margin-bottom:20px;
+  background-color:#f7f5f2;
+	display: inline-block;
+	vertical-align: top;
+	width:100%;
+	margin-top:20px;
+}
+.navbar{
+	margin-bottom:40px;
+}
+.navbar-middle li a{
+	text-decoration:none;
+	background-color:transparent;
+	color:#6d6e70;
+	font-size: 16px;
+}
+
+.navbar-middle li a:hover{
+	background-color:transparent;
+	color:#8cc1c1;
+}
+.dropdown-sign{
+	text-decoration:none;
+	background-color:transparent;
+	color:#6d6e70;
+	font-size: 16px;
+}
+.lupapassword  a{
+	text-decoration:none;
+	color:#6d6e70;
+	font-size: 12px;
+	margin-top:2px;
+}
+.lupapassword  a:hover{
+	text-decoration:none;
+	color:red;
+	font-size: 12px;
+}
+.head_title {
+	padding-right:10px;
+}
+
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.btn-block{
+	background-color:#89c1c0;
+	box-shadow:3px;
+	color:#fff;
+}
+.btn-block:hover{
+	background-color:#6d9796;
+	color:#fff;
+}
+
+
+fa {
+    padding-right: 5px;
+}
+
+
+.navbar-collapse{
+	/*background: rgba(164, 202, 169, 0.17);*/
+	decoretion:none;
+    border-color: none;
+    border-radius: 5px;
+}
+.search{
+   background-image: url(images/siamese.jpg);
+  }
+.content_pencarian{
+	float:center;
+ }
+.search_input input{
+	height:46px;
+	font-size:20px;
+}
+.search button{
+	background:#fd4f00;
+	border-color: #fd4f00;
+	color:#fff;
+}
+.search button:hover{
+	background:#de3723;
+	border-color: whitesmoke;
+}
+
+.search {
+	margin-top:100px;
+	margin-bottom:100px;
+	
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+/*chat css*/
+
+
+.chat-text{
+	font-size:16px;
+	font:bold;
+	padding-left:20px;
+}
+.chat-text a{
+	    text-shadow: 0 -1px 1px #6d9796;
+	font-size:16px;
+	margin-left:30px;
+	background: #89c1c0;
+	color:#fff;
+}
+
+.chat-text a:hover{
+	text-shadow: 0 -1px 1px #6d9796;
+	font-size:16px;
+	margin-left:30px;
+	background: #6d9796;
+	color:#fff;
+}
+
+.contact_chat{
+	background: #f2f2f2;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	border-bottom: 4px solid #89c1c0;
+	display: inline-block;
+	vertical-align: top;
+	width:100%;
+	margin-top:20px;
+	margin-bottom:-10px;
+}
+
+
+/*conten chat*/
+
+.content{
+	background-image:url(../images/service.jpg);
+	display: inline-block;
+	vertical-align: top;
+	width:100%;
+	background-repeat:no-repeat;
+	background-position:center-top;
+}
+.images_header{
+	width:10%;
+}
+
+.images_signout{
+	width:90%;
+}
+.signout{
+	background:#f7f5f2;
+	border-top:1px solid ##f2f2f2;
+	padding-bottom:10px;
+	margin-bottom:-15px;
+	padding-top:10px;
+}
+
+
+
+
+/*admin tampil*/ 
+.selamat_datang .row img{
+	width:500px
+}
+.selamat_datang .row h2{
+	text-align:center;
+	
+  font-family: 'arial';
+  color:#89c1c0;
+}
+
+

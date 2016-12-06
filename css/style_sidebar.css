@@ -1,0 +1,15 @@
+.sidebar a:hover{
+	text-decoration:none;
+	color:red;
+}
+.sidebar a{
+	text-decoration:none;
+}
+.sidebar_body td:hover{
+	background:#f2f2f2;
+}
+
+.sidebar_body td a:hover{
+	text-decoration:none;
+	color:#000;
+}
